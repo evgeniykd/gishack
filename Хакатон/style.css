@@ -1,0 +1,70 @@
+
+body{
+background: #2F4F4F;
+}
+.header{
+height: 100px;
+background: #00CED1;
+}
+.footer{
+height: 50px;
+background: #2F4F4F;
+color: white;
+}
+.textd{
+text-decoration: none;
+color: white;
+}
+.text-btn-size{
+font-size: 22px;
+}
+.map{
+height: 700px;
+background: #00FFFF;
+}
+.content{
+height: 800px;
+}
+.color1{
+background: #B0E0E6;
+}
+.bg-reg{
+background: #66CDAA;
+}
+.mx{
+margin-left: 6%;
+}
+.logotip{
+height: 80px;
+width: 80px;
+}
+.info{
+	background: #AFEEEE;
+}
+.img1{
+	height:100px;
+	width: 100px; 
+}
+.txt2{
+	font-size: 22px;
+}
+.problems{
+	height: 350px;
+	width: 400px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.txt-problem{
+	
+	height: 350px;
+	width: 400px;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+.color-w{
+	color: white;
+}
+
+
+
+
